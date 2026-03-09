@@ -1,0 +1,266 @@
+                                                    Filename  Actual  Predicted Actual_Class Predicted_Class
+datasets\original(txt)\healthy\T0001.1.1.S.2012-10-08.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0002.1.1.S.2012-10-08.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0004.1.1.S.2012-10-17.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0005.1.1.S.2012-10-17.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0006.1.1.S.2012-10-17.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0007.1.1.S.2012-10-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0008.1.1.S.2012-10-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0010.1.1.S.2012-10-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0012.1.1.S.2012-10-26.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0013.1.1.S.2012-10-26.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0015.1.1.S.2012-10-26.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0016.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0017.1.1.S.2012-10-26.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0019.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0020.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0021.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0022.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0023.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0024.1.1.S.2012-10-31.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0026.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0028.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0030.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0031.1.1.S.2012-10-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0032.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0034.1.1.S.2012-11-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0035.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0036.1.1.S.2012-09-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0037.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0038.1.1.S.2012-10-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0040.1.1.S.2012-11-09.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0041.1.1.S.2012-11-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0042.1.1.S.2012-11-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0043.1.1.S.2012-11-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0044.1.1.S.2012-11-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0045.1.1.S.2012-11-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0046.1.1.S.2012-11-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0047.1.1.S.2012-11-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0048.1.1.S.2012-11-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0049.1.1.S.2012-11-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0050.1.1.S.2012-11-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0051.1.1.S.2012-11-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0052.1.1.S.2012-11-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0055.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0057.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0058.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0059.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0060.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0061.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0062.1.1.S.2012-11-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0064.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0065.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0066.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0067.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0068.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0069.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0070.1.1.S.2012-11-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0071.1.1.S.2012-12-03.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0072.1.1.S.2012-12-03.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0073.1.1.S.2012-12-03.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0075.1.1.S.2012-12-03.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0080.1.1.S.2012-11-30.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0085.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0086.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0087.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0088.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0089.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0090.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0091.1.1.S.2012-11-12.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0092.1.1.S.2012-12-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0093.1.1.S.2012-12-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0094.1.1.S.2012-12-07.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0095.1.1.S.2012-12-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0096.1.1.S.2012-11-09.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0097.1.1.S.2012-11-09.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0098.1.1.S.2012-11-09.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0099.1.1.S.2012-11-09.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0100.1.1.S.2012-11-09.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0104.1.1.S.2012-11-30.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0105.1.1.S.2012-11-30.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0106.1.1.S.2012-11-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0107.1.1.S.2012-11-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0108.1.1.S.2012-11-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0109.1.1.S.2012-11-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0110.1.1.S.2012-11-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0111.1.1.S.2012-11-28.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0113.1.1.S.2013-01-15.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0114.1.1.S.2013-01-15.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0115.1.1.S.2013-01-16.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0116.1.1.S.2013-01-16.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0121.1.1.S.2013-01-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0125.1.1.S.2013-01-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0126.1.1.S.2013-01-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0127.1.1.S.2013-01-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0129.1.1.S.2013-01-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0130.1.1.S.2013-01-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0131.1.1.S.2013-01-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0132.1.1.S.2013-01-21.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0135.1.1.S.2013-01-25.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0136.1.1.S.2013-01-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0137.1.1.S.2013-01-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0143.1.1.S.2013-01-25.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0144.1.1.S.2013-01-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0145.1.1.S.2013-01-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0146.1.1.S.2013-01-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0147.1.1.S.2013-01-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0148.1.1.S.2013-01-29.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0149.1.1.S.2013-01-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0150.1.1.S.2013-01-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0151.1.1.S.2013-01-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0152.1.1.S.2013-02-01.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0153.1.1.S.2013-02-01.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0154.1.1.S.2013-02-01.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0156.1.1.S.2013-02-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0158.1.1.S.2013-02-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0159.1.1.S.2013-02-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0160.1.1.S.2013-02-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0161.1.1.S.2013-02-22.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0162.1.1.S.2013-02-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0163.1.1.S.2013-02-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0164.1.1.S.2013-02-19.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0165.1.1.S.2013-03-06.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0166.1.1.S.2013-01-14.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0168.1.1.S.2013-04-08.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0169.1.1.S.2013-04-08.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0170.1.1.S.2013-04-08.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0171.1.1.S.2013-03-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0172.1.1.S.2013-03-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0173.1.1.S.2013-03-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0174.1.1.S.2013-03-20.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0176.1.1.S.2013-03-20.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0177.1.1.S.2013-03-20.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0182.1.1.S.2013-05-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0183.1.1.S.2013-05-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0184.1.1.S.2013-05-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0185.1.1.S.2013-05-24.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0188.1.1.S.2013-08-12.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0189.1.1.S.2013-09-30.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0190.1.1.S.2013-09-30.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0191.1.1.S.2013-09-06.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0193.1.1.S.2013-10-02.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0194.1.1.S.2013-10-02.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0195.1.1.S.2013-10-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0196.1.1.S.2013-10-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0197.1.1.S.2013-10-07.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0199.1.1.S.2013-10-07.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0200.1.1.S.2013-10-07.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0201.1.1.S.2013-10-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0206.1.1.S.2013-10-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0208.1.1.S.2013-10-28.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0211.1.1.S.2013-11-08.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0212.1.1.S.2013-11-08.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0216.1.1.S.2013-11-11.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0217.1.1.S.2013-11-11.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0218.1.1.S.2013-11-11.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0219.1.1.S.2013-11-11.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0220.1.1.S.2013-11-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0221.1.1.S.2013-11-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0222.1.1.S.2013-11-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0224.1.1.S.2013-11-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0225.1.1.S.2013-11-18.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0226.1.1.S.2013-11-18.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0233.1.1.S.2013-12-11.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0234.1.1.S.2013-12-11.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0235.1.1.S.2014-05-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0236.1.1.S.2014-05-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0237.1.1.S.2014-05-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0238.1.1.S.2014-05-21.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0239.1.1.S.2014-05-26.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0243.1.1.S.2014-04-15.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0244.1.1.S.2014-05-06.00.txt       0          0      healthy         healthy
+datasets\original(txt)\healthy\T0272.1.1.S.2015-03-13.00.txt       0          1      healthy            sick
+datasets\original(txt)\healthy\T0276.1.1.S.2015-03-13.00.txt       0          0      healthy         healthy
+   datasets\original(txt)\sick\T0179.1.1.S.2013-08-16.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0180.1.1.S.2013-08-16.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0181.1.1.S.2013-08-16.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0192.1.1.S.2013-09-06.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0202.1.1.S.2013-10-11.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0203.1.1.S.2013-10-11.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0204.1.1.S.2013-10-11.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0209.1.1.S.2013-11-08.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0210.1.1.S.2013-11-08.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0213.1.1.S.2013-11-08.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0240.1.1.S.2014-07-18.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0241.1.1.S.2014-07-18.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0242.1.1.S.2014-07-25.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0245.1.1.S.2014-08-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0246.1.1.S.2014-08-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0255.1.1.S.2014-10-10.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0256.1.1.S.2014-10-10.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0257.1.1.S.2014-10-17.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0258.1.1.S.2014-10-17.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0259.1.1.S.2014-11-07.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0260.1.1.S.2014-11-11.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0261.1.1.S.2014-11-11.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0263.1.1.S.2014-12-12.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0264.1.1.S.2015-01-16.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0266.1.1.S.2015-01-16.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0267.1.1.S.2015-01-16.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0268.1.1.S.2015-01-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0269.1.1.S.2015-01-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0270.1.1.S.2015-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0271.1.1.S.2015-01-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0273.1.1.S.2015-03-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0274.1.1.S.2015-03-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0277.1.1.S.2015-03-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0278.1.1.S.2015-03-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0281.1.1.S.2015-05-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0282.1.1.S.2015-07-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0283.1.1.S.2015-05-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0285.1.1.S.2015-07-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0286.1.1.S.2015-05-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0287.1.1.S.2015-07-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0312.1.1.S.2019-11-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0316.1.1.S.2018-05-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0318.1.1.S.2019-08-28.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0319.1.1.S.2019-10-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0322.1.1.S.2019-11-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0326.1.1.S.2019-04-24.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0328.1.1.S.2020-01-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0330.1.1.S.2020-02-26.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0337.1.1.S.2019-07-24.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0338.1.1.S.2020-01-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0342.1.1.S.2020-01-22.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0343.1.1.S.2019-04-24.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0344.1.1.S.2019-12-11.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0345.1.1.S.2019-10-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0347.1.1.S.2019-11-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0348.1.1.S.2019-06-26.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0350.1.1.S.2020-10-14.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0355.1.1.S.2019-03-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0356.1.1.S.2019-06-26.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0361.1.1.S.2020-10-14.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0363.1.1.S.2020-09-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0365.1.1.S.2020-10-14.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0366.1.1.S.2019-11-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0368.1.1.S.2020-10-14.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0369.1.1.S.2020-10-14.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0371.1.1.S.2020-10-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0373.1.1.S.2019-10-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0374.1.1.S.2020-10-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0378.1.1.S.2020-09-15.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0381.1.1.S.2020-02-19.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0384.1.1.S.2020-02-26.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0386.1.1.S.2019-11-13.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0387.1.1.S.2019-09-25.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0389.1.1.S.2020-10-14.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0390.1.1.S.2019-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0393.1.1.S.2019-09-25.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0394.1.1.S.2018-05-23.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0397.1.1.S.2019-02-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0398.1.1.S.2019-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0401.1.1.S.2019-07-24.00.txt       1          0         sick         healthy
+   datasets\original(txt)\sick\T0402.1.1.S.2018-05-25.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0407.1.1.S.2019-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0408.1.1.S.2019-02-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0409.1.1.S.2019-02-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0410.1.1.S.2019-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0411.1.1.S.2019-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0412.1.1.S.2019-02-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0413.1.1.S.2019-01-30.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0415.1.1.S.2019-02-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0418.1.1.S.2020-01-20.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0422.1.1.S.2019-07-24.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0424.1.1.S.2019-02-27.00.txt       1          1         sick            sick
+   datasets\original(txt)\sick\T0425.1.1.S.2020-02-19.00.txt       1          1         sick            sick

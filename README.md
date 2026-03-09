@@ -70,8 +70,6 @@ Preprocessing includes:
 
 Example preprocessing visualization:
 
-![Preprocessing](experiments/resize_padding.png)
-
 ---
 
 # Experimental Results
@@ -80,7 +78,7 @@ The confusion matrices below show model performance for both datasets.
 
 ### Original Dataset
 
-![Confusion Matrix Original](experiments/confusion_original.png)
+![Confusion Matrix Original](model_output/confusion_original.png)
 
 Metrics:
 
@@ -94,7 +92,7 @@ Metrics:
 
 ### Segmented Dataset
 
-![Confusion Matrix Segmented](experiments/confusion_segmented.png)
+![Confusion Matrix Segmented](model_output/confusion_segmented.png)
 
 Metrics:
 

@@ -12,11 +12,6 @@ venv/
 env/
 ENV/
 
-# Dataset (if large)
-datasets/
-
-# Model outputs
-model_output/
 
 # Logs
 *.log
