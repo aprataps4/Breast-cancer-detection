@@ -12,6 +12,7 @@ venv/
 env/
 ENV/
 
+.cph
 
 # Logs
 *.log
